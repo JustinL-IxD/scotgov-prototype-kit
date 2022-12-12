@@ -1,0 +1,17 @@
+.sgPrimaryButton {
+    min-height: 56px;
+    min-width: 56px;
+    padding: 1em;
+    color: white;
+    background-color: #0065bd;
+    border: 0;
+    font-size: 1.1875em;
+    cursor: pointer;
+    margin: 2em 0;
+}
+
+.sgPrimaryButton:hover {
+    background-color: #fdd522;
+    color: #333;
+    box-shadow: 0 3px #333;
+}

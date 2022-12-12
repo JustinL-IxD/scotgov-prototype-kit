@@ -1,0 +1,22 @@
+.sgSecondaryButton {
+    min-height: 56px;
+    min-width: 56px;
+    padding: 1em;
+    color: #0065bd;
+    background-color: white;
+    outline: 2px solid #0065bd;
+    outline-offset: -2px;
+    border: none;
+    font-size: 1.1875em;
+    cursor: pointer;
+    margin: 2em 0;
+    margin-right: 24px;
+}
+
+.sgSecondaryButton:hover {
+    background-color: #fdd522;
+    color: #333;
+    box-shadow: 0 3px #333;
+    outline: none;
+    border: none;
+}
